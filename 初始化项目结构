@@ -1,0 +1,11 @@
+designAI/
+├── README.md          # 项目说明文档
+├── public/           # 网站静态资源（HTML、CSS、图片等）
+│   ├── index.html     # 页眉
+│   └── style.css      # 样式表
+├── src/             # 源代码目录
+│   ├── frontend/     # 前端逻辑
+│   │   └── app.js    # React 应用程序
+│   └── backend/     # 后端逻辑
+│       └── app.py     # Flask 服务器
+└── requirements.txt   # Python 依赖项列表
